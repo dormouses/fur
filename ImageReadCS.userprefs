@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E62DF5A6-F9C3-4C88-BEE1-38F0125662EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="21" Column="83" />
+      <File FileName="Count.cs" Line="97" Column="69" />
+      <File FileName="Compare.cs" Line="104" Column="25" />
+      <File FileName="Extra.cs" Line="61" Column="56" />
+      <File FileName="../test/lena_min_light.key" Line="207" Column="17" />
+      <File FileName="IO/ImageIO.cs" Line="340" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|Mixed Platforms" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ImageReadCS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
